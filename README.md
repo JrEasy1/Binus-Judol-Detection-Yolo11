@@ -8,6 +8,9 @@ HuggingFace = https://huggingface.co/spaces/JrEasy/Judol_Push_model/tree/main
 
 YOLO11 Model = best.pt  
 RTDETR Model = model.safetensors  
+To use our models you can also just use:
+https://huggingface.co/spaces/JrEasy/Judol_Push_model/resolve/main/best.pt // For YOLO11
+https://huggingface.co/spaces/JrEasy/Judol_Push_model/resolve/main/model.safetensors // For RT-DETR  
 
 Some dependencies you would need:    
 os  
