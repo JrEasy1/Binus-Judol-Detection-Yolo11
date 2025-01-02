@@ -1,5 +1,7 @@
 # Binus-Judol-Detection-Yolo11
 
+The actual deep learning models are too big in github, so we will be saving it in huggingface  
+
 Some dependencies you would need:   
 os  
 numpy  
