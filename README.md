@@ -1,6 +1,8 @@
 # Binus-Judol-Detection-Yolo11
 
 The actual deep learning models are too big in github, so we will be saving it in huggingface
+HuggingFace = https://huggingface.co/spaces/JrEasy/Judol_Push_model/tree/main  
+
 
 YOLO11 Model = best.pt  
 RTDETR Model = model.safetensors  
