@@ -2,7 +2,9 @@
 
 The actual deep learning models are too big in github, so we will be saving it in huggingface
 HuggingFace = https://huggingface.co/spaces/JrEasy/Judol_Push_model/tree/main  
-*Note = Because the demo host in huggingface is using the free basic-cpu, I advise to use a very short video video detection(1 - 5 seconds), image detection should be fine... For longer videos i suggest to just use your own colab gradio  
+*Note = Because the demo host in huggingface is using the free basic-cpu, I advise to use a very short video video detection(1 - 5 seconds), image detection should be fine... For longer videos i suggest to just use colab gradio
+
+(All Colab Links to .ipynb files are in documentation)
 
 YOLO11 Model = best.pt  
 RTDETR Model = model.safetensors  
@@ -30,3 +32,5 @@ google.colab
 pprint  
 dataclasses  
 transformers   
+gradio
+imageio
