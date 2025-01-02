@@ -1,6 +1,7 @@
 # Binus-Judol-Detection-Yolo11
 
-The actual deep learning models are too big in github, so we will be saving it in huggingface
+The actual deep learning models are too big in github, so we will be saving it in huggingface  
+We also added the dataset used both in COCO and YOLO format  
 HuggingFace = https://huggingface.co/spaces/JrEasy/Judol_Push_model/tree/main  
 *Note = Because the demo host in huggingface is using the free basic-cpu, I advise to use a very short video video detection(1 - 5 seconds), image detection should be fine... For longer videos i suggest to just use colab gradio
 
