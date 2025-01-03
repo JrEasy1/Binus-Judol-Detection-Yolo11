@@ -6,6 +6,8 @@ HuggingFace = https://huggingface.co/spaces/JrEasy/Judol_Push_model/tree/main
 *Note = Because the demo host in huggingface is using the free basic-cpu, I advise to use a very short video video detection(1 - 5 seconds), image detection should be fine... For longer videos i suggest to just use colab gradio
 
 (All Colab Links to .ipynb files are in documentation)
+Link Docs = https://docs.google.com/document/d/1sRhai6kxePchqMiQZSr8qkD4HzZNdu1G4qUgvAjcoGM/edit?tab=t.0  
+
 
 YOLO11 Model = best.pt  
 RTDETR Model = model.safetensors  
