@@ -1,4 +1,8 @@
 # Binus-Judol-Detection-Yolo11
+Christian Antonius Anggaresta - 2602179214  
+Jonathan Lucas Fontana - 2602159723  
+Farrel Adyatma Alimin - 2602216906  
+
 
 The actual deep learning models are too big in github, so we will be saving it in huggingface  
 We also added the dataset used both in COCO and YOLO format  
